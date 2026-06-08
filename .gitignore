@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.venv
+recruitment.db
+.DS_Store
